@@ -11,5 +11,4 @@ cask "moped" do
   app "Moped.app"
 
   zap trash: "~/Library/Containers/net.machorro.roberto.Moped"
-done
-
+end
